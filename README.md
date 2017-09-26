@@ -1,1 +1,1 @@
-"# SchoolPurchases" 
+# SchoolPurchases
