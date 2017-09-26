@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">School purchases</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- templates into layouts -->
+    <string name="caption">Caption of purchase</string>
+    <string name="start_date">1 january 0001</string>
+    <string name="status">Completed</string>
+
+    <!-- finish templates into layouts -->
+
+</resources>

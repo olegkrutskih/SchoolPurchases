@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Школьные закупки</string>
+    <string name="navigation_drawer_open">Открыть меню навигации</string>
+    <string name="navigation_drawer_close">Закрыть меню навигации</string>
+    <string name="action_settings">Настройки</string>
+    <string name="status">Завершено</string>
+    <string name="start_date">1 января 0001</string>
+    <string name="caption">Название закупки</string>
+</resources>
